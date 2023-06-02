@@ -1,5 +1,5 @@
 # RN-Pokedex
-Pokemon info app built with React Native. 
+Pokémon info app built with React Native. 
 
 ## Features
  * Show Pokémon list

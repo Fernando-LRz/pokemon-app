@@ -19,7 +19,7 @@ git clone https://github.com/Fernando-LRz/RN-Pokedex.git
 ```bash
 cd RN-Pokedex
 ```
-3. Install the packages
+3. Install dependencies
 ```bash
 npm install
 ```

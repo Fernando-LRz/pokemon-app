@@ -1,4 +1,4 @@
-# RN-Pokedex
+# Pokémon app
 Pokémon info app built with React Native. 
 
 ## Features
@@ -13,11 +13,11 @@ Pokémon info app built with React Native.
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/Fernando-LRz/RN-Pokedex.git
+git clone https://github.com/Fernando-LRz/pokemon-app.git
 ``` 
-2. Go inside the project folder
+2. Navigate to the project directory
 ```bash
-cd RN-Pokedex
+cd pokemon-app
 ```
 3. Install dependencies
 ```bash

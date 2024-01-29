@@ -30,6 +30,6 @@ npx react-native run-android
 ```
 
 ## App images
-| Home screen                                       | Pokémon info screen                          | Pokémon search screen                        |
-| ------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-| ![home screen](images/home.png)                   | ![pokemon info screen](images/pokemon.png)   | ![pokemon search screen](images/search.png)  |
+| Home screen                                           | Pokémon info screen                                      | Pokémon search screen                                    |
+| ----------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
+| <img src="images/home.png" width="240" height="480"/> | <img src="images/pokemon.png" width="240" height="480"/> | <img src="images/search.png" width="240" height="480"/>  |

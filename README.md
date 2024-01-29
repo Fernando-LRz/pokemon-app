@@ -28,3 +28,8 @@ npm install
 ```bash
 npx react-native run-android
 ```
+
+## App images
+| Home screen                                       | Pokémon info screen                          | Pokémon search screen                        |
+| ------------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
+| ![home screen](images/home.png)                   | ![pokemon info screen](images/pokemon.png)   | ![pokemon search screen](images/search.png)  |

@@ -36,7 +36,7 @@ const HomeScreen = () => {
                             marginBottom: top + 20,
                             paddingBottom: 10
                         }}>
-                            Pokedex
+                            Pokeapp
                         </Text>
                     )}
 

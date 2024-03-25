@@ -2,14 +2,13 @@
 Pokémon info app built with React Native. 
 
 ## Features
- * Show Pokémon list
- * Search Pokémon by name or id
+ * Show Pokémon list.
  * Show information about each Pokémon, such as:
-
-    - Types
-    - Weight
-    - Moves
- 
+    - Types.
+    - Weight.
+    - Moves.
+  * Search Pokémon by name or id.
+    
 ## Installation
 1. Clone the repository
 ```bash
